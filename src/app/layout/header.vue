@@ -1,6 +1,6 @@
 <template>
 	<header>
-		<h1>POS(webpack, vueJS, scss)</h1>
+		<h1>POS</h1>
 		<dl>
 			<dt>개발자</dt>
 			<dd>정승용</dd>
