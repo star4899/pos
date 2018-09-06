@@ -29,7 +29,7 @@
     "webpack-merge": "^4.1.4"
   },
   "scripts": {
-    "dev": "webpack-dev-server --mode development --open",
+    "dev": "webpack-dev-server --mode development --progress --open",
     "build": "webpack --mode production --progress --hide-modules"
   },
   "author": "skydown",
